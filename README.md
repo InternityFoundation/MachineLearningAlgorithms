@@ -1,2 +1,2 @@
-# RegressionImplementationFromScratch_Yugandhar
-regression without the use of sklearn library
+ML:
+Implementation of various machine learning algorithms.
